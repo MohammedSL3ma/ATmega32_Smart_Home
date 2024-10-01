@@ -68,7 +68,7 @@
 <p>The project consists of two main files:</p>
 <pre><code>main.c</code></pre>
 <p>The first <code>main.c</code> handles the user interface and controls the devices based on user input from the keypad.</p>
-<pre><code>main.c</code></pre>
+<pre><code>main1.c</code></pre>
 <p>The second <code>main1.c</code> implements UART communication for controlling devices through serial commands.</p>
 
 <h3>Connections</h3>
