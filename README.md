@@ -90,7 +90,6 @@
 <p>This project is licensed under the MIT License.</p>
 
 <h2>Contact</h2>
-<p>If you have any questions or suggestions, feel free to contact me at <a href="mailto:your-email@example.com">your-email@example.com</a>.</p>
 
 </body>
 </html>
