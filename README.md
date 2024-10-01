@@ -86,9 +86,6 @@
 <p>3. Power on the system and use the keypad to interact with the devices.</p>
 <p>4. For UART control, connect a serial terminal to the appropriate COM port.</p>
 
-<h2>License</h2>
-<p>This project is licensed under the MIT License.</p>
-
 
 </body>
 </html>
