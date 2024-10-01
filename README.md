@@ -89,7 +89,6 @@
 <h2>License</h2>
 <p>This project is licensed under the MIT License.</p>
 
-<h2>Contact</h2>
 
 </body>
 </html>
