@@ -69,7 +69,7 @@
 <pre><code>main.c</code></pre>
 <p>The first <code>main.c</code> handles the user interface and controls the devices based on user input from the keypad.</p>
 <pre><code>main.c</code></pre>
-<p>The second <code>main.c</code> implements UART communication for controlling devices through serial commands.</p>
+<p>The second <code>main1.c</code> implements UART communication for controlling devices through serial commands.</p>
 
 <h3>Connections</h3>
 <p>The following connections should be made to the ATmega32 microcontroller:</p>
